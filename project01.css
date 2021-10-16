@@ -1,0 +1,105 @@
+    #navbar {
+        height: 100px;
+        background-color: rgb(56, 6, 85);
+
+    }
+
+    #navbar h1 {
+        font-size: 40px;
+        margin-left: 100px;
+        margin-top: 50px;
+        display: inline-block;
+        color: white;
+    }
+
+    .right {
+        display: inline-block;
+        position: absolute;
+        right: 20px;
+        margin: 20px;
+    }
+
+    .btn {
+
+        padding: 10px;
+        font-size: 22px;
+        color: rgb(150, 150, 255);
+    }
+
+    #bar {
+        margin: 0px;
+        display: flex;
+        list-style: none;
+        background-color: rgb(189, 182, 182);
+
+    }
+
+    #bar li a {
+        text-decoration: none;
+        padding: 15px;
+        font-size: 22px;
+        color: rgb(74, 74, 252);
+    }
+
+    .image {
+        margin-top: 10px;
+        text-align: center;
+    }
+
+    .td {
+        font-size: 25px;
+    }
+
+    .table {
+        border: black solid 2px;
+        margin: 20px;
+    }
+
+    .pd {
+        border: black solid 2px;
+        padding-top: 10px;
+        padding-left: 25px;
+        margin: 0px;
+        display: block;
+        height: 60px;
+        background-color: rgb(56, 6, 85);
+        color: white;
+        font-size: 28px;
+
+    }
+
+    td {
+        font-size: 20px;
+    }
+
+    .a {
+        color: rgb(121, 121, 255);
+    }
+
+    .b {
+        padding-left: 25px;
+        padding-right: 25px;
+        border-radius: 10px;
+        border: black solid 2px;
+        background-color: rgb(194, 187, 187);
+        color: rgb(16, 16, 248);
+    }
+
+    .ef {
+        margin: 0px;
+    }
+
+    .ep {
+        font-size: 30px;
+
+    }
+    footer{
+        padding-left: 25px;
+        margin: 0px;
+        display: block;
+        height: 100px;
+        background-color: black;
+        color:white;
+        font-size: 28px;
+    }
+
